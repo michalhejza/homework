@@ -1,7 +1,6 @@
-    1  ls
-    2  cd Pulpit
-    3  cd Desktop
-    4  mkdir dupa
+
+
+    4
     5   git clone https://just_go_ultra@bitbucket.org/WojtassPL/tst.git
     6  git clone https://just_go_ultra@bitbucket.org/WojtassPL/tst.git
     7  git config --global user.email "michal.hejza@gmail.com"
@@ -14,8 +13,8 @@
    14  chmod 777 C:\Program Files/Git/mingw64/etc/gitconfig
    15  chmod 777 C:\Program Files/Git/mingw64/etc/gitconfig
    16  git clone https://just_go_ultra@bitbucket.org/WojtassPL/test.git
-   17  cd Pulpit
-   18  cd Desktop
+   17
+   1
    19  git clone https://just_go_ultra@bitbucket.org/WojtassPL/test.git
    20  git clone https://just_go_ultra@bitbucket.org/WojtassPL/tst.git
    21  git init
