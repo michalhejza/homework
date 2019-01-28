@@ -1,0 +1,235 @@
+    1  ls
+    2  cd Pulpit
+    3  cd Desktop
+    4  mkdir dupa
+    5   git clone https://just_go_ultra@bitbucket.org/WojtassPL/tst.git
+    6  git clone https://just_go_ultra@bitbucket.org/WojtassPL/tst.git
+    7  git config --global user.email "michal.hejza@gmail.com"
+    8  git config --global user.name "just_go_ultra"
+    9  git clone https://just_go_ultra@bitbucket.org/WojtassPL/tst.git
+   10  git config --system http.sslCAPath /absolute/path/to/git/certificates
+   11  sudo git config --system http.sslCAPath /absolute/path/to/git/certificates
+   12  chmod 777 C:\Program Files\Git\mingw64/etc/gitconfig
+   13  git config --system http.sslCAPath/absolute/path/to/git/certificates
+   14  chmod 777 C:\Program Files/Git/mingw64/etc/gitconfig
+   15  chmod 777 C:\Program Files/Git/mingw64/etc/gitconfig
+   16  git clone https://just_go_ultra@bitbucket.org/WojtassPL/test.git
+   17  cd Pulpit
+   18  cd Desktop
+   19  git clone https://just_go_ultra@bitbucket.org/WojtassPL/test.git
+   20  git clone https://just_go_ultra@bitbucket.org/WojtassPL/tst.git
+   21  git init
+   22  git clone https://just_go_ultra@bitbucket.org/just_go_ultra/test_majkel.git
+   23  git clone git@bitbucket.org:just_go_ultra/test_majkel.git
+   24  git clone https://github.com/jquery/jquery.git
+   25  git shortlog -s -n
+   26  git log --pretty=oneline
+   27  git log
+   28  git log
+   29  git clone git@bitbucket.org:just_go_ultra/test_majkel.git
+   30  git clone https://just_go_ultra@bitbucket.org/just_go_ultra/test_majkel.git
+   31  git log
+   32  git log --pretty=oneline
+   33  gitk
+   34  git log
+   35  gitk
+   36  git gui
+   37  git clone https://github.com/michalhejza/hello_world.git
+   38  git clone https://github.com/michalhejza/hello_world.git
+   39  git checkout -f
+   40  git clone https://github.com/progit/progit
+   41  git status
+   42  git clone https://github.com/progit/progit
+   43  git status
+   44  git reset --hard
+   45  git checkout -f
+   46  git reset --hard
+   47  git reset --hard
+   48  git status
+   49  git add
+   50  git add test.txt
+   51  git add -A
+   52  git clone https://github.com/progit/progit
+   53  git commit -a -m "Zapis rewizji"
+   54  git add -A
+   55  git status
+   56  git log
+   57  git log
+   58  git log
+   59  git log
+   60  git log
+   61  git checkout
+   62  git checkout [SHA-1]
+   63  git clone https://github.com/michalhejza/hello_world.git
+   64  gitk
+   65  git branch
+   66  git log
+   67  git clone https://github.com/michalhejza/hello_world.git
+   68  git pull https://github.com/michalhejza/hello_world.git
+   69  git status 
+   70  ls
+   71  mkdir gracki
+   72  ls
+   73  ls
+   74  git status 
+   75  cd gracki/
+   76  CD ..
+   77  cd ..
+   78  cd ls
+   79  ls
+   80  cd /
+   81  ls
+   82  cd usr/bin/ls
+   83  cd usr/bin/
+   84  ll
+   85  ls
+   86  ll
+   87  cd /
+   88  ls
+   89  cd bin/
+   90  ll
+   91  cd c
+   92  cd c:
+   93  ls
+   94  cd Users/Lucjan/
+   95  ls
+   96  ll
+   97  cd Desktop/tst/
+   98  ls
+   99  cd Nowy\ folder/
+  100  ls
+  101  cd gracki/
+  102  ls
+  103  cat gr.txt
+  104  nano gr.txt 
+  105  git status 
+  106  git add 
+  107  git add .
+  108  git commit -v
+  109  vim -m
+  110  vm -help
+  111  vim -help
+  112  git add *
+  113  git cmmit -v
+  114  git commit -v
+  115  git commit -v
+  116  git push -m
+  117  git push 
+  118  git reset --soft HEAD~1
+  119  git log
+  120  git reset HEAD^
+  121  git push -u origin master --force
+  122  git
+  123  ls
+  124  cd..
+  125  cd ..
+  126  cd / gracki
+  127  cd gracki
+  128  cd cd ..
+  129  cd ..
+  130  git clone https://just_go_ultra@bitbucket.org/just_go_ultra/test_majkel.git
+  131  ls
+  132  cd test_majkel
+  133  cat -> testowy.txt
+  134  git fetch && git checkout test3
+  135  git clone https://just_go_ultra@bitbucket.org/just_go_ultra/test_majkel.git
+  136  git fetch && git checkout test3
+  137  git fetch && git checkout 
+  138  git add
+  139  git add .
+  140  git commit -m "adding a change from the feature branch" 
+  141  git push origin test3
+  142  http://recoilprecious@cogjob.cognifide.com/scm/~recoilprecious/homework_michal_hejza.git
+  143  http://recoilprecious@cogjob.cognifide.com/scm/~recoilprecious/homework_michal_hejza.git
+  144  http://recoilprecious@cogjob.cognifide.com/scm/~recoilprecious/homework_michal_hejza.git
+  145  http://recoilprecious@cogjob.cognifide.com/scm/~recoilprecious/homework_michal_hejza.git`
+  146  http://recoilprecious@cogjob.cognifide.com/scm/~recoilprecious/homework_michal_hejza.git
+  147  http://recoilprecious@cogjob.cognifide.com/scm/~recoilprecious/homework_michal_hejza.git
+  148  git ststus
+  149  git status
+  150  http://recoilprecious@cogjob.cognifide.com/scm/~recoilprecious/homework_michal_hejza.git
+  151  git clone lprecious@cogjob.cognifide.com/scm/~recoilprecious/homework_michal_hejza.git
+  152  bash: http://recoilprecious@cogjob.cognifide.com/scm/~recoilprecious/homework_michal_hejza.git: No such file or director
+  153  git clone http://recoilprecious@cogjob.cognifide.com/scm/~recoilprecious/homework_michal_hejza.git
+  154  git clone http://recoilprecious@cogjob.cognifide.com/scm/~recoilprecious/homework_michal_hejza.git
+  155  git add Task1.md
+  156  git add Task 1.md
+  157  git add Task1.md
+  158  cd homework_michal_hejza
+  159  git add Task1.md
+  160  git commit
+  161  git init
+  162  git add .
+  163  git commit -m "First commit"
+  164  git remote add origin http://recoilprecious@cogjob.cognifide.com/scm/~recoilprecious/homework_michal_hejza.git
+  165  git remote -v
+  166  git push origin master
+  167  git history
+  168  git add .
+  169  git commit -m "Second commit"
+  170  git commit -m "Second commit"
+  171  git add .
+  172  git commit -m "Second commit"
+  173  git remote add origin http://recoilprecious@cogjob.cognifide.com/scm/~recoilprecious/homework_michal_hejza.git
+  174  git remote -v
+  175  git push origin master
+  176  git init
+  177  git clone https://github.com/michalhejza/homework.git
+  178  git add .
+  179  git commit -m "Unknown"
+  180  git remote add origin https://github.com/michalhejza/homework.git
+  181  git remote -v
+  182  git push origin master
+  183  git push origin master
+  184  git init
+  185  git add .
+  186  git commit -m "Unknown"
+  187  git commit -m "Unknown23"
+  188  git push origin master
+  189  git clone ds' in 'git push --help' for details.
+  190  git clone https://github.com/michalhejza/homework.git
+  191  git init
+  192  git clone https://github.com/michalhejza/homework.git
+  193  git add .
+  194  git commit -m "First"
+  195  git remote -v
+  196  git push origin master
+  197  git remote add origin https://github.com/michalhejza/homework.git
+  198  git remote -v
+  199  git push origin master
+  200          homework/test4
+  201  git status
+  202  git push 
+  203  git pull origin development
+  204  git push -f origin master
+  205  git clone https://github.com/michalhejza/homework.git
+  206  git init
+  207  git clone https://github.com/michalhejza/homework.git
+  208  git add tutorial .
+  209  git add .
+  210  git commit -m "Tutorial"
+  211  git remote -v
+  212  git push origin master
+  213  git push origin 
+  214  git remote add origin https://github.com/michalhejza/homework.git
+  215  git push origin master
+  216  cd test3
+  217  cat > teletubies.txt
+  218  cd test3
+  219  nano teletubies.txt
+  220  file teletubies
+  221  cat teletubies.txt
+  222  cp teletubies.txt test
+  223  mkdir Tele
+  224  man mkdir
+  225  whatis mkdir
+  226  wc teletubies.txt
+  227  nl teletubies.txt
+  228  grep nano teletubies.txt 
+  229  ll
+  230  git 
+  231  rmdir Tele
+  232  rm test
+  233  ls
+  234  history > history.txt
+  235  history > history3.txt
